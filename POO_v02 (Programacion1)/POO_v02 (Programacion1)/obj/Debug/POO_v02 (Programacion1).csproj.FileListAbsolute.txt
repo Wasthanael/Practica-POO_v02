@@ -1,0 +1,7 @@
+C:\Users\MSI_PC\source\repos\POO_v02 (Programacion1)\POO_v02 (Programacion1)\obj\Debug\POO_v02 (Programacion1).csprojAssemblyReference.cache
+C:\Users\MSI_PC\source\repos\POO_v02 (Programacion1)\POO_v02 (Programacion1)\obj\Debug\POO_v02 (Programacion1).csproj.CoreCompileInputs.cache
+C:\Users\MSI_PC\source\repos\POO_v02 (Programacion1)\POO_v02 (Programacion1)\bin\Debug\POO_v02 (Programacion1).exe.config
+C:\Users\MSI_PC\source\repos\POO_v02 (Programacion1)\POO_v02 (Programacion1)\bin\Debug\POO_v02 (Programacion1).exe
+C:\Users\MSI_PC\source\repos\POO_v02 (Programacion1)\POO_v02 (Programacion1)\bin\Debug\POO_v02 (Programacion1).pdb
+C:\Users\MSI_PC\source\repos\POO_v02 (Programacion1)\POO_v02 (Programacion1)\obj\Debug\POO_v02 (Programacion1).exe
+C:\Users\MSI_PC\source\repos\POO_v02 (Programacion1)\POO_v02 (Programacion1)\obj\Debug\POO_v02 (Programacion1).pdb
